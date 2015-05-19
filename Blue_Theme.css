@@ -1,0 +1,116 @@
+# ProtonMail-CustomTheme
+This is ProtonMail Custom Theme. You can use it with ProtonMail Account
+
+/*!
+ProtonMail Custom Theme (Blue)
+Copyright (c) 2015 Udara Madubhashana
+*/
+
+#compose_button a {
+  border: none;
+  background: #0277BD;
+}
+;
+#compose_button a:hover {
+  background: #01579B;
+  transition: .2s;
+}
+#compose_button a {
+  border: none;
+  background: #0277BD;
+  transition: .2s;
+  box-shadow: none!important;
+}
+#main footer .wrap, body #mainHeader, footer .wrap {
+  background: #252525;
+}
+#sidebar {
+  width: 13rem;
+  background: #252525;
+  text-shadow: 0 1px 0 rgba(0,0,0,.5);
+  z-index: 1002;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#sidebar .storage {
+  position: fixed;
+  left: 0;
+  right: 1rem;
+  bottom: 0;
+  width: 13rem;
+  padding: 0 1rem;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  background: #252525;
+}
+.pure-button.pure-button-primary, body .ui-button.pure-button-primary {
+  color: #fff;
+  border: 1px solid #5d7b8a;
+  background: #789fb3;
+  background: -webkit-linear-gradient(#789fb3,#678899);
+  background: -o-linear-gradient(#789fb3,#678899);
+  background: -moz-linear-gradient(#789fb3,#678899);
+  background: linear-gradient(#0277BD,#01579B);
+}
+.pure-button.pure-button-primary:focus, .pure-button.pure-button-primary:hover, body .ui-button.pure-button-primary:focus, body .ui-button.pure-button-primary:hover {
+  background: #789fb3;
+  background: -webkit-linear-gradient(#789fb3,#678899);
+  background: -o-linear-gradient(#789fb3,#678899);
+  background: -moz-linear-gradient(#789fb3,#678899);
+  background: linear-gradient(#0277BD,#0277BD);
+}
+#compose_button a:active, #compose_button a:hover {
+  background: #01579B;
+  transition: .2s;
+}
+.pure-button, body .ui-button {
+  box-sizing: border-box;
+  color: #666;
+  border: none!important;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.2);
+  background: #e5e5e5;
+  background: -webkit-linear-gradient(#E0E0E0,#BDBDBD);
+  background: -o-linear-gradient(#fff,#e5e5e5);
+  background: -moz-linear-gradient(#fff,#e5e5e5);
+  background: linear-gradient(9E9E9E,#BDBDBD);
+  background-size: 100% 100%!important;
+  transition: background-size .5s;
+  text-shadow: none!important;
+}
+#headerListingActions.header {
+  background: #3A3A3A;
+  right: 0;
+  clear: both;
+  z-index: 1000;
+}
+.pure-button, body .ui-button {
+  box-sizing: border-box;
+  color: #666;
+  border: none!important;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.2);
+  background: #e5e5e5;
+  background: -webkit-linear-gradient(#FFFFFF,#E1F5FE);
+  background: -o-linear-gradient(#fff,#E1F5FE);
+  background: -moz-linear-gradient(#fff,#E1F5FE);
+  background: linear-gradient(9E9E9E,#BDBDBD);
+  background-size: 100% 100%!important;
+  transition: background-size .5s;
+  text-shadow: none!important;
+}
+#headerListingActions.header {
+  background: #3A3A3A;
+  right: 0;
+  clear: both;
+  z-index: 1000;
+}
+#page-settings label.heading {
+  font-weight: 700;
+  color: black;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
