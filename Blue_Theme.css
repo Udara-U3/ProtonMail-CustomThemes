@@ -51,17 +51,17 @@ https://twitter.com/UdaraU3
 .pure-button.pure-button-primary, body .ui-button.pure-button-primary {
   color: #fff;
   border: 1px solid #5d7b8a;
-  background: #789fb3;
-  background: -webkit-linear-gradient(#789fb3,#678899);
-  background: -o-linear-gradient(#789fb3,#678899);
-  background: -moz-linear-gradient(#789fb3,#678899);
+  background: #0277BD;
+  background: -webkit-linear-gradient(#0277BD,#01579B);
+  background: -o-linear-gradient(#0277BD,#01579B);
+  background: -moz-linear-gradient(#0277BD,#01579B);
   background: linear-gradient(#0277BD,#01579B);
 }
 .pure-button.pure-button-primary:focus, .pure-button.pure-button-primary:hover, body .ui-button.pure-button-primary:focus, body .ui-button.pure-button-primary:hover {
-  background: #789fb3;
-  background: -webkit-linear-gradient(#789fb3,#678899);
-  background: -o-linear-gradient(#789fb3,#678899);
-  background: -moz-linear-gradient(#789fb3,#678899);
+  background: #0277BD;
+  background: -webkit-linear-gradient(#0277BD,#0277BD);
+  background: -o-linear-gradient(#0277BD,#0277BD);
+  background: -moz-linear-gradient(#0277BD,#0277BD);
   background: linear-gradient(#0277BD,#0277BD);
 }
 #compose_button a:active, #compose_button a:hover {
@@ -73,11 +73,11 @@ https://twitter.com/UdaraU3
   color: #666;
   border: none!important;
   box-shadow: inset 0 0 0 1px rgba(0,0,0,.2);
-  background: #e5e5e5;
-  background: -webkit-linear-gradient(#E0E0E0,#BDBDBD);
-  background: -o-linear-gradient(#fff,#e5e5e5);
-  background: -moz-linear-gradient(#fff,#e5e5e5);
-  background: linear-gradient(9E9E9E,#BDBDBD);
+  background: #9E9E9E;
+  background: -webkit-linear-gradient(#9E9E9E,#BDBDBD);
+  background: -o-linear-gradient(#9E9E9E,#BDBDBD);
+  background: -moz-linear-gradient(#9E9E9E,#BDBDBD);
+  background: linear-gradient(#9E9E9E,#BDBDBD);
   background-size: 100% 100%!important;
   transition: background-size .5s;
   text-shadow: none!important;
@@ -93,11 +93,11 @@ https://twitter.com/UdaraU3
   color: #666;
   border: none!important;
   box-shadow: inset 0 0 0 1px rgba(0,0,0,.2);
-  background: #e5e5e5;
-  background: -webkit-linear-gradient(#FFFFFF,#E1F5FE);
-  background: -o-linear-gradient(#fff,#E1F5FE);
-  background: -moz-linear-gradient(#fff,#E1F5FE);
-  background: linear-gradient(9E9E9E,#BDBDBD);
+  background: #9E9E9E;
+  background: -webkit-linear-gradient(#9E9E9E,#BDBDBD);
+  background: -o-linear-gradient(#9E9E9E,#BDBDBD);
+  background: -moz-linear-gradient(#9E9E9E,#BDBDBD);
+  background: linear-gradient(#9E9E9E,#BDBDBD);
   background-size: 100% 100%!important;
   transition: background-size .5s;
   text-shadow: none!important;
