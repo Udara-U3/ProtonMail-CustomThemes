@@ -101,3 +101,13 @@ https://twitter.com/UdaraU3
   z-index: 4;
   color: #fff;
 }
+.alert {
+  margin-bottom: .5rem;
+  background: #E9F8FF;
+  border-radius: 2px;
+  border: 1px solid #BEE2F2;
+  color: #333;
+  text-shadow: none;
+  padding: .5rem 1rem;
+  font-size: 13px;
+}
