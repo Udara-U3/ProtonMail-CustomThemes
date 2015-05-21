@@ -101,3 +101,13 @@ button-primary:focus, body .ui-button.pure-button-primary:hover {
   z-index: 4;
   color: #fff;
 }
+.alert {
+  margin-bottom: .5rem;
+  background: #EDFFFE;
+  border-radius: 2px;
+  border: 1px solid #CBE4E3;
+  color: #333;
+  text-shadow: none;
+  padding: .5rem 1rem;
+  font-size: 13px;
+}
