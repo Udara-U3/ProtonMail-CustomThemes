@@ -111,3 +111,7 @@ button-primary:focus, body .ui-button.pure-button-primary:hover {
   padding: .5rem 1rem;
   font-size: 13px;
 }
+#footer .wrap {
+  background: #273234;
+  color: #ccc;
+}
