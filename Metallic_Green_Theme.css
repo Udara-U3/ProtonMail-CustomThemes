@@ -111,6 +111,10 @@ button-primary:focus, body .ui-button.pure-button-primary:hover {
   padding: .5rem 1rem;
   font-size: 13px;
 }
+.pure-form input:not(type]):focus, .pure-form inputtypecolor]:focus, .pure-form inputtypedate]:focus, .pure-form inputtypedatetime-local]:focus, .pure-form inputtypedatetime]:focus, .pure-form inputtypeemail]:focus, .pure-form inputtypemonth]:focus, .pure-form inputtypenumber]:focus, .pure-form inputtypepassword]:focus, .pure-form inputtypesearch]:focus, .pure-form inputtypetel]:focus, .pure-form inputtypetext]:focus, .pure-form inputtypetime]:focus, .pure-form inputtypeurl]:focus, .pure-form inputtypeweek]:focus, .pure-form select:focus, .pure-form textarea:focus {
+  outline: 0;
+  border-color: #23A799;
+}
 #footer .wrap {
   background: #273234;
   color: #ccc;
